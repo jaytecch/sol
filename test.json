@@ -1,0 +1,27 @@
+{
+    "name": "Alien #1",
+    "descripition": "Bunch of Alien Nfts that you will love",
+    "image": "https://gateway.pinata.cloud/ipfs/QmcJSbP8F4m1YZE6SnLU8ykJsHLQVyFughnU9vQQAvccmc/Alien_1.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND COLOR",
+            "value": "Maroon"
+        },
+        {
+            "trait_type": "CLOTH",
+            "value": "Blue Cloth"
+        },
+        {
+            "trait_type": "HATS",
+            "value": "Red Hat"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "Mouth with Cigar"
+        },
+        {
+            "trait_type": "NECK",
+            "value": "Neck"
+        }
+    ]
+}
